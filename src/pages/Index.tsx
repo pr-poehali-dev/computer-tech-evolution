@@ -291,6 +291,9 @@ export default function Index() {
           <div className="mono text-xs text-muted-foreground/30">
             История компьютерных технологий · 1941 — 2024
           </div>
+          <div className="mono text-xs text-muted-foreground/40">
+            Сайт сделал <span className="text-neon-cyan/60">Шевченко Константин</span>
+          </div>
         </footer>
       </main>
 
